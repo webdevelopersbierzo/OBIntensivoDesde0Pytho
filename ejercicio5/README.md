@@ -1,5 +1,5 @@
-##Ejercicio6
-Crea una función que convierta un password (entre 6 y 12 caracteres) es una cadena de texto alfanumérica de 32 caracteres. La función SIEMPRE debe devolver el mismo resultado para la misma entrada.
+## Ejercicio 5
+Enunciado: Convierte un Excel a CSV
 Objetivo: 
-- Aprender a manejar los bucles y las cadena de texto.
-- Mejorar la capacidad algorítm
+- Aprender a trabajar con ficheros
+- Usar la librería pandas de Python
